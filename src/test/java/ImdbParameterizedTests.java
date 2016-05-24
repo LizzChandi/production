@@ -20,7 +20,6 @@ import static org.junit.Assert.assertTrue;
 public class ImdbParameterizedTests {
     private static WebDriver driver;
     private static String baseUrl;
-
     private String searchTerm;
 
     @Parameterized.Parameters(name = "Movie {index}: {0}")

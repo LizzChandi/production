@@ -20,7 +20,6 @@ public class GoogleTests {
         // Notice that the remainder of the code relies on the interface,
         // not the implementation.
         WebDriver driver = new HtmlUnitDriver();
-
         Logger.getLogger("").setLevel(Level.SEVERE);
 
         // And now use this to visit Google

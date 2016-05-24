@@ -17,7 +17,6 @@ import static org.junit.Assert.assertTrue;
 
 public class ImbdTestsNew {
     private static final String SEARCHTERM = "Deadpool";
-
     private WebDriver driver;
     private String baseUrl;
 

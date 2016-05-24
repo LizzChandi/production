@@ -23,7 +23,6 @@ import static org.junit.Assert.assertTrue;
 public class AllMusicParameterizedTest {
     private WebDriver driver;
     private String baseUrl;
-
     public AllMusicParameterizedTest(WebDriver driver) {
         this.driver = driver;
     }

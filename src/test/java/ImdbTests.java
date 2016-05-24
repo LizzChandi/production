@@ -17,7 +17,6 @@ import static org.junit.Assert.assertTrue;
 
 public class ImdbTests {
     private static final String SEARCHTERM = "Before Sunrise";
-
     private WebDriver driver;
     private String baseUrl;
 
