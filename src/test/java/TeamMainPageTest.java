@@ -14,7 +14,7 @@ import java.util.logging.Logger;
 import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertTrue;
 public class TeamMainPageTest {
-    private static final String LINKTEXT_JCB = "LinkedIn";
+    private static final String LINKTEXT_JCB = "TEAM WORK";
     private static final String JCB_LINK_TITLE= "José Carlos Bregieiro Ribeiro | LinkedIn";
     private static final String LINKTEXT_RM = "shortbio";
 
